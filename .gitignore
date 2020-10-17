@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.env
+workbook.html
+data/Middle_Layer_Super_Output_Areas__December_2011__Boundaries.geojson
+data/Middle_Layer_Super_Output_Areas__December_2011__Population_Weighted_Centroids.geojson
+data/lon_geojson.json
+data/land-area-population-density-lsoa11-msoa11.xlsx
+data/R2_2_EW__RT__Table_QS211__OA_London_v1.xlsx
